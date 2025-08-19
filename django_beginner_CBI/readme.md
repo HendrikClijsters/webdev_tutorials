@@ -1,0 +1,2 @@
+## Python Django Tutorial for Beginners
+This tutorial was made by CBI Analytics on Youtube. The first video of this tutorial series is found [here](https://www.youtube.com/watch?v=aZo28FTMF2c&t=321s&ab_channel=CBIAnalytics).
