@@ -5,8 +5,6 @@ from django.template import loader
 from django.urls import reverse
 from django.views import generic
 
-
-
 from .models import Choice, Question
 
 # Create your views here.
