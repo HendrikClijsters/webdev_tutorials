@@ -72,9 +72,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 # Internal IPs for debug purposes
 INTERNAL_IPS = [
-    # ...
     "127.0.0.1",
-    # ...
 ]
 
 
